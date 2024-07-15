@@ -1,6 +1,6 @@
 {
   "name": "vue3-pure-template",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": false,
   "type": "module",
   "scripts": {
